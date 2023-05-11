@@ -12,6 +12,10 @@
     display: inline-block;
     border-radius: 10px;
 }
+.container h3{
+    text-decoration: underline;
+    font-family: sans-serif;
+}
 
 table{
     
