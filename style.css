@@ -8,7 +8,7 @@
     text-align: center;
     margin: 10% 40%;
     padding: 20px;
-    background-color: rgb(4, 253, 75);
+    background-color: rgb(8, 253, 4);
     display: inline-block;
     border-radius: 10px;
 }
@@ -35,7 +35,7 @@ input[type="screen"]{
     font-size: 24px;
     margin-top: 10%;
 }
-.head{
+.heading{
     text-decoration: underline;
     font-size: 30px;
     font-weight: lighter;
